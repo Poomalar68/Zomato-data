@@ -1,2 +1,6 @@
-# Zomato-data
-Zomato restaurant data
+Zomato data
+
+
+The Zomato Restaurant Dataset is a comprehensive collection of restaurant data sourced from the popular online food delivery platform, Zomato.
+
+This dataset contains information about various restaurants listed on the platform, including their location, cuisine type, ratings, user reviews, and other essential attributes. The data is designed to help researchers, data enthusiasts, and analysts gain insights into the restaurant industry, customer preferences, and regional culinary trends.
